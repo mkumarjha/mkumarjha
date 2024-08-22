@@ -4,7 +4,7 @@
 - ⚡ I am **Sr. Software Engineer**, having **10 + year** **web development experience**.
 - 🌱 Worked in many companies (from startup to product based companies).
 - ⚡ I have worked on different domains like **E-commerce, B2B, B2C, Push Notification, Intranet, Warehouse Management** etc.
-- 🔭 I’m currently working on BookIt Project.
+- 🔭 I’m currently working on BookIt Project and Warehouse Project.
 - 🌱 I’m currently learning mobile frameworks like **React Native** and **Flutter** and **Typescripts**.
 - 👯 I’m looking to collaborate on good projects.
 - 🤔 I’m looking for help to learn new things which is new for me.
