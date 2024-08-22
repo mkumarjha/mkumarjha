@@ -11,4 +11,4 @@
 - 💬 Ask me about **Node**, **Express**, **Nextjs**, **React**, **Mongodb**, **Mysql**, **Laravel**, **PHP**, **Angular** etc
 - 📫 How to reach me: connectmkj@gmail.cm
 - 😄 Pronouns: Mr. Mithilesh Kumar Jha
-- ⚡ Fun fact: Love to Help someone who really needs 
+- ⚡ Fun fact: Love to play chess
