@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on BookIt Project and Warehouse Project.
 - 🌱 I’m currently learning mobile frameworks like **React Native**,**Flutter** and **Typescripts**.
 - 👯 I’m looking to collaborate on good projects.
-- 🤔 I’m looking for help to learn new things which is new for me.
+- 🤔 I’m looking for help and learn new things which is new for me.
 - 💬 Ask me about **Node**, **Express**, **Nextjs**, **React**, **Mongodb**, **Mysql**, **Laravel**, **PHP**, **Angular** etc
 - 📫 How to reach me: connectmkj@gmail.cm
 - 😄 Pronouns: Mr. Mithilesh Kumar Jha
