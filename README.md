@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on good projects.
 - 🤔 I’m looking for help and learn new things which is new for me.
 - 💬 Ask me about **Node**, **Express**, **Nextjs**, **React**, **Mongodb**, **Mysql**, **Laravel**, **PHP**, **Angular** etc
-- 📫 How to reach me: connectmkj@gmail.cm
+- 📫 How to reach me: connectmkj@gmail.com
 - 😄 Pronouns: Mr. Mithilesh Kumar Jha
 - ⚡ Fun fact: Love to play chess
 <h3 align="left">Languages and Tools:</h3>
